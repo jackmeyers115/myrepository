@@ -12,5 +12,5 @@ Welcome to my Github project, where I'll be showing the history of dinosaurs
 ---
 
 ### Quick Links
-- [Next: Intro](Intro.md)
+[Next: Intro](Intro.md)
    
