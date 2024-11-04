@@ -19,4 +19,9 @@
 
      <img src="spinosaurus.jpg" alt="Image description" width="450"/>
 
+---
+### Quick Links
+
+[Previous: End](end.md) | [Back to home](README.md)
+
 
