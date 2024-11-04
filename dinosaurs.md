@@ -17,4 +17,6 @@
 
 - **Spinosaurus:** This unique, large dinosaur had a sail-like spine on its back and may have been semi-aquatic, hunting fish in rivers and swamps. It lived during the Cretaceous period and was even larger than T. rex.
 
-     <img src="Brachiosaurus.jpg" alt="Image description" width="450"/>
+     <img src="spinosaurus.jpg" alt="Image description" width="450"/>
+
+
