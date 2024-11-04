@@ -13,4 +13,8 @@
 
 - **Brachiosaurus:** Known for its long neck and front legs that were longer than its back legs, Brachiosaurus was a huge herbivore that could reach tall trees for food. It lived during the Late Jurassic.
   
-     <img src="Velociraptor.jpeg" alt="Image description" width="400"/>
+     <img src="Brachiosaurus.jpg" alt="Image description" width="450"/>
+
+- **Spinosaurus:** This unique, large dinosaur had a sail-like spine on its back and may have been semi-aquatic, hunting fish in rivers and swamps. It lived during the Cretaceous period and was even larger than T. rex.
+
+     <img src="Brachiosaurus.jpg" alt="Image description" width="450"/>
