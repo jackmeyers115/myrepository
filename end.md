@@ -4,5 +4,6 @@ Around 66 million years ago, a massive asteroid struck Earth near what is now th
 
 <img src="GettyImages-724237133-d6e944a.jpg" alt="Image description" width="500"/>
 ---
+
 ### Quick Links 
 [Previous: Facts](facts.md) | [Next: Dinosaurs](dinosaurs.md)
