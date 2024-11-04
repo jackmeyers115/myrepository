@@ -10,9 +10,6 @@
 
 5. **Birds Are Technically Dinosaurs:** Modern birds evolved from small theropod dinosaurs, meaning that, in a way, dinosaurs are not completely extinct—they live on as birds!
 
-
-
-
-
-
-
+---
+### Quick Links
+[Previous: Introduction](Intro.md) | [Next: 
