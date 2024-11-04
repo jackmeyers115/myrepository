@@ -5,6 +5,9 @@
 
 - **Stegosaurus:** Recognizable by its distinctive back plates and spiked tail, Stegosaurus was a large plant-eater that lived during the Late Jurassic period.
 
-    <img src="11tb-trex-cousin-01-tjkc-superJumbo.jpg" alt="Image description" width="400"/>
+    <img src="1583192893524.png" alt="Image description" width="400"/>
 
+- **Velociraptor:** Popularized by movies, Velociraptor was actually a smaller, feathered dinosaur that lived in packs. It was fast, intelligent, and likely hunted in groups.
+
+   
   
