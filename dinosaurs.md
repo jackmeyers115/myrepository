@@ -9,5 +9,8 @@
 
 - **Velociraptor:** Popularized by movies, Velociraptor was actually a smaller, feathered dinosaur that lived in packs. It was fast, intelligent, and likely hunted in groups.
 
-   
+     <img src="Velociraptor.jpeg" alt="Image description" width="400"/>
+
+- **Brachiosaurus:** Known for its long neck and front legs that were longer than its back legs, Brachiosaurus was a huge herbivore that could reach tall trees for food. It lived during the Late Jurassic.
   
+     <img src="Velociraptor.jpeg" alt="Image description" width="400"/>
